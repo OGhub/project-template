@@ -14,3 +14,5 @@ df.tail(2)
 df.info()
 
 df = df.replace("alice", "Alice Smith")
+
+# added some lines
